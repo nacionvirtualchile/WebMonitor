@@ -1,15 +1,15 @@
 # Change these first
 owner: nacionvirtualchile # Your GitHub organization or username, where this repository lives
-repo: WebMonitor # The name of this repository
-
+repo: webmonitor # The name of this repository
+user-agent: nacionvirtualchile  
 sites:
-  - name: NacionVirtual.cl
+  - name: NacionVirtual
     url: https://www.nacionvirtual.cl
-  - name: FMN.cl
+  - name: FMN
     url: https://www.fmn.cl
   - name: Parapenteantofagasta
     url: https://parapenteantofagasta.cl
-  - name: Ecoshower.cl
+  - name: Ecoshower
     url: https://ecoshower.cl
 
 
@@ -17,7 +17,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: https://nacionvirtualchile.github.io/WebMonitor
+  baseUrl: /WebMonitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: WebMonitor
   introTitle: "**Monitor Web** de Nacionvirtual.cl."
