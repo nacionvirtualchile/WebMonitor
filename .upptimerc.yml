@@ -23,8 +23,8 @@ status-website:
   introTitle: "**Monitor Web** de Nacionvirtual.cl."
   introMessage: Aquí estará el status de los siguientes sitios. Open source tool. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
-      href: /
+    - title: Naionvirtual.cl
+      href: https://www.nacionvirtual.cl/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
