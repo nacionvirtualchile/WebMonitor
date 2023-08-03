@@ -60,19 +60,19 @@
     "url": "https://ecoshower.cl",
     "icon": "https://icons.duckduckgo.com/ip3/ecoshower.cl.ico",
     "slug": "ecoshower",
-    "status": "up",
-    "uptime": "98.88%",
-    "uptimeDay": "91.44%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "98.88%",
+    "status": "down",
+    "uptime": "98.95%",
+    "uptimeDay": "92.23%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "98.95%",
     "time": 7783,
     "timeDay": 14015,
     "timeWeek": 8471,
     "timeMonth": 7783,
     "timeYear": 7783,
     "dailyMinutesDown": {
-      "2023-08-03": 123,
+      "2023-08-03": 112,
       "2023-07-23": 76
     }
   }
