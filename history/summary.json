@@ -4,19 +4,19 @@
     "url": "https://www.nacionvirtual.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.nacionvirtual.cl.ico",
     "slug": "nacion-virtual",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "98.23%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 2284,
-    "timeDay": 14686,
-    "timeWeek": 4037,
-    "timeMonth": 2284,
-    "timeYear": 2284,
+    "time": 2178,
+    "timeDay": 14485,
+    "timeWeek": 4063,
+    "timeMonth": 2178,
+    "timeYear": 2178,
     "dailyMinutesDown": {
-      "2023-08-03": 25
+      "2023-08-03": 27
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.fmn.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.fmn.cl.ico",
     "slug": "fmn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "97.17%",
-    "uptimeWeek": "99.60%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.58%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
-    "time": 1044,
-    "timeDay": 1598,
-    "timeWeek": 1297,
-    "timeMonth": 1044,
-    "timeYear": 1044,
+    "time": 1084,
+    "timeDay": 1738,
+    "timeWeek": 1325,
+    "timeMonth": 1084,
+    "timeYear": 1084,
     "dailyMinutesDown": {
-      "2023-08-03": 41
+      "2023-08-03": 42
     }
   },
   {
@@ -44,18 +44,20 @@
     "url": "https://parapenteantofagasta.cl",
     "icon": "https://icons.duckduckgo.com/ip3/parapenteantofagasta.cl.ico",
     "slug": "parapenteantofagasta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 825,
-    "timeDay": 871,
-    "timeWeek": 780,
-    "timeMonth": 825,
-    "timeYear": 825,
-    "dailyMinutesDown": {}
+    "time": 1833,
+    "timeDay": 18974,
+    "timeWeek": 3400,
+    "timeMonth": 1833,
+    "timeYear": 1833,
+    "dailyMinutesDown": {
+      "2023-08-03": 1
+    }
   },
   {
     "name": "Ecoshower",
@@ -63,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ecoshower.cl.ico",
     "slug": "ecoshower",
     "status": "down",
-    "uptime": "97.50%",
-    "uptimeDay": "72.71%",
-    "uptimeWeek": "96.10%",
-    "uptimeMonth": "97.50%",
-    "uptimeYear": "97.50%",
+    "uptime": "97.33%",
+    "uptimeDay": "70.44%",
+    "uptimeWeek": "95.78%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "97.33%",
     "time": 9154,
-    "timeDay": 11224,
-    "timeWeek": 9797,
+    "timeDay": 11181,
+    "timeWeek": 9994,
     "timeMonth": 9154,
     "timeYear": 9154,
     "dailyMinutesDown": {
-      "2023-08-03": 392,
+      "2023-08-03": 425,
       "2023-07-23": 76
     }
   }
