@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nacionvirtual.cl.ico",
     "slug": "nacion-virtual",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.51%",
+    "uptimeDay": "93.56%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
     "time": 2328,
     "timeDay": 11278,
     "timeWeek": 4152,
     "timeMonth": 2328,
     "timeYear": 2328,
     "dailyMinutesDown": {
-      "2023-08-03": 27
+      "2023-08-04": 59,
+      "2023-08-03": 33
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fmn.cl.ico",
     "slug": "fmn",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "95.31%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.30%",
+    "uptimeDay": "90.75%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.30%",
     "time": 1084,
     "timeDay": 1738,
     "timeWeek": 1325,
     "timeMonth": 1084,
     "timeYear": 1084,
     "dailyMinutesDown": {
-      "2023-08-03": 68
+      "2023-08-04": 59,
+      "2023-08-03": 74
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/parapenteantofagasta.cl.ico",
     "slug": "parapenteantofagasta",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.52%",
+    "uptimeDay": "93.62%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
     "time": 1833,
     "timeDay": 18974,
     "timeWeek": 3400,
     "timeMonth": 1833,
     "timeYear": 1833,
     "dailyMinutesDown": {
-      "2023-08-03": 26
+      "2023-08-04": 59,
+      "2023-08-03": 33
     }
   },
   {
@@ -65,18 +68,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ecoshower.cl.ico",
     "slug": "ecoshower",
     "status": "down",
-    "uptime": "97.20%",
-    "uptimeDay": "68.66%",
-    "uptimeWeek": "95.52%",
-    "uptimeMonth": "97.20%",
-    "uptimeYear": "97.20%",
+    "uptime": "96.86%",
+    "uptimeDay": "64.09%",
+    "uptimeWeek": "94.87%",
+    "uptimeMonth": "96.86%",
+    "uptimeYear": "96.86%",
     "time": 9154,
     "timeDay": 11181,
     "timeWeek": 9994,
     "timeMonth": 9154,
     "timeYear": 9154,
     "dailyMinutesDown": {
-      "2023-08-03": 450,
+      "2023-08-04": 59,
+      "2023-08-03": 457,
       "2023-07-23": 76
     }
   }
